@@ -1,4 +1,4 @@
 language: python
 python:
- - 3.4
- script: python3 demo.py
+- 3.4
+script: pytho demo.py
